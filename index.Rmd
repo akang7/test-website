@@ -2,17 +2,23 @@
 title: "Ashley Kang"
 ---
 
-<img src="images/IMG_2780.jpeg" style="width:75%">
+
+
+<img src="images/IMG_2780.jpeg" style="width:75%">  
+
+
 
 
 I am a second year MPH student at Columbia University Mailman School of Public Health pursuing a concentration in Epidemiology and a certificate in Applied Biostatistics. I recently interned at the NYC Department of Health and Mental Hygiene in the Division of Informatics Information Technology and Telecommunications researching the validity of internal provider data (Provider Data Warehouse) compared to data from public sources, including Medicaid Claims and NPPES NPI Registry.
 
 
+#### [Resume](resume.html)  
 
 #### [LinkedIn](https://www.linkedin.com/in/ashley-kang-74571278/)
 
-#### [Resume](resume.html)
 
+
+On a less serious note, I seriously love ice cream and when I was in college, I wrote a blog post dedicated to all the *artisanal* ice cream I had in the Bay Area. It's a mix of Berkeley-pretentiousness and passion - I poured my soul into writing this post so [check it out](http://ashleykanggg.tumblr.com/post/94611347893/ice-creameries-in-the-bay)
 
 
 
