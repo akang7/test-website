@@ -1,5 +1,9 @@
 ---
 title: "Ashley Kang"
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 MPH Candidate in Epidemiology at Columbia University Mailman School of Public Health
@@ -17,8 +21,10 @@ I recently interned at the [NYC Department of Health and Mental Hygiene](https:/
 
 ### Random
 
+<img src="images/IMG_4804.JPG" style="width:50%">  
+
 On a less serious note, I seriously love ice cream and when I was in college, I wrote a blog post dedicated to all the "*artisanal*" ice cream I had in the Bay Area. It's a mix of Berkeley-pretentiousness and passion - I poured my soul into writing this post so [check it out](http://ashleykanggg.tumblr.com/post/94611347893/ice-creameries-in-the-bay)
 
-<img src="images/IMG_4804.JPG" style="width:50%">  
+
 
 
