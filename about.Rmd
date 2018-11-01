@@ -10,7 +10,8 @@ output: html_document
 MPH in Epidemiology, Certificate in Applied Biostatistics | GPA 4.05  
 
 **University of California, Berkeley**; Berkeley, CA | May 2016  
-B.A. Molecular and Cell Biology & Public Health (Honors)  
+B.A. Molecular and Cell Biology & Public Health (Honors) 
+Honors Thesis: "The Effect of CoQ on Beige Adipogenesis in a Human Cell Model"
   
 ### Experience
 
