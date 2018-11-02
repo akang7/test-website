@@ -1,15 +1,18 @@
 ---
 title: "Resume"
+output: html_document
 ---
+
+
 
 ### Education
 **Columbia University Mailman School of Public Health**; New York, NY | May 2019  
 MPH in Epidemiology, Certificate in Applied Biostatistics | GPA 4.05  
 
 **University of California, Berkeley**; Berkeley, CA | May 2016  
-B.A. Molecular and Cell Biology & Public Health (Honors)
-
-
+B.A. Molecular and Cell Biology & Public Health (Honors) 
+Honors Thesis: "The Effect of CoQ on Beige Adipogenesis in a Human Cell Model"
+  
 ### Experience
 
 **HEALTH RESEARCH TRAINING PROGRAM INTERN**, New York City Department of Health; *Long Island City, NY*: JUN 2018 – AUG 2018
@@ -35,8 +38,8 @@ and search for types of software and relevant information to DOHMH employees
 * Studied the relationship between Coenzyme Q (CoQ) and beige adipogenesis in a human cell model
 * Wrote undergraduate honors thesis investigating whether statins affect both CoQ levels and Ucp1 expression using primary human cultured subcutaneous preadipocytes that were differentiated into beige adipocytes and treated with atorvastatin, 4-chlorobenzoate (4-CBA), or vehicle controls
 * Experience with literature research and manuscript-style writing
-* Participated and presented in biweekly lab meetings
-
+* Participated and presented in biweekly lab meetings  
+  
 ### Skills
 
 * **Technical**: Microsoft Office, SAS, Microsoft SQL Server, R, GIS

@@ -1,46 +1,7 @@
 ---
-title: "Resume"
-output: html_document
+title: "About this site"
 ---
 
+This is a personal website built on October 31, 2018 for Columbia University Mailman School of Public Health, Department of Biostatistics' Data Science course (P8105).
 
-
-### Education
-**Columbia University Mailman School of Public Health**; New York, NY | May 2019  
-MPH in Epidemiology, Certificate in Applied Biostatistics | GPA 4.05  
-
-**University of California, Berkeley**; Berkeley, CA | May 2016  
-B.A. Molecular and Cell Biology & Public Health (Honors) 
-Honors Thesis: "The Effect of CoQ on Beige Adipogenesis in a Human Cell Model"
-  
-### Experience
-
-**HEALTH RESEARCH TRAINING PROGRAM INTERN**, New York City Department of Health; *Long Island City, NY*: JUN 2018 – AUG 2018
-
-* Built data matching algorithms using SQL Server to match provider data from NYC DOHMH’s Provider Data
-* Warehouse to provider data from Medicaid Claims to research validity of data from Provider Data Warehouse
-+ Geocoded large datasets up to 60,000 records using NYC DOHMH’s GeoPortal
-+ Built prototype tool catalog website for the Bureau of IT Informatics, which will be used to efficiently present
-and search for types of software and relevant information to DOHMH employees
-
-**TEACHING ASSISTANT**, Columbia University Mailman School of Public Health; *New York, NY*: SEPT 2018 – PRESENT
-
-* Facilitated weekly lab sections for Research Methods and Applications – Quantitative Foundations (introduction to epidemiology and biostatistics) for 22 students, including those with limited quantitative experience
-* Provided classroom support to lectures and extra student support outside of class
-
-**MATH & SCIENCE INSTRUCTOR**, Elite Educational Institute; *Los Angeles, CA*: SEPT 2016 – JAN 2018
-
-* Tutored students in SAT/ACT, ISEE, all math subjects up to Calculus, and Biology (AP, Honors, Regular)
-* Increased SAT Math scores by 160 points on average, ACT Math scores by 5 points on average, and ACT Science scores by 4 points on average
-
-**UNDERGRADUATE RESEARCH ASSISTANT**, The Stahl Lab, University of California, Berkeley; *Berkeley, CA*: FEB 2014 – MAY 2016
-
-* Studied the relationship between Coenzyme Q (CoQ) and beige adipogenesis in a human cell model
-* Wrote undergraduate honors thesis investigating whether statins affect both CoQ levels and Ucp1 expression using primary human cultured subcutaneous preadipocytes that were differentiated into beige adipocytes and treated with atorvastatin, 4-chlorobenzoate (4-CBA), or vehicle controls
-* Experience with literature research and manuscript-style writing
-* Participated and presented in biweekly lab meetings  
-  
-### Skills
-
-* **Technical**: Microsoft Office, SAS, Microsoft SQL Server, R, GIS
-* **Certificates**: CITI Human Subjects, HIPAA, Working with IAUAC (Animal Care)
+This website includes my resume, an example of a Plotly Flex Dashboard required for the Data Science course, and links to my personal LinkedIn, Instagram, and GitHub profiles.
