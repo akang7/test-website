@@ -14,8 +14,6 @@ navbar:
       href: mailto:<aik2136@cumc.columbia.edu>
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/ashley-kang-74571278/
-    - icon: fa-instagram fa-lg
-      href: https://www.instagram.com/ashleykanggg/
     - icon: fa-github fa-lg
       href: http://github.com/akang7/
 output:
