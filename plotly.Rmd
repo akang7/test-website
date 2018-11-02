@@ -37,9 +37,9 @@ ny_noaa_data %>%
   group_by(year, month) %>% 
   summarize(avg_prcp = mean(prcp, na.rm = TRUE)) %>% 
   mutate(month = fct_reorder(month, avg_prcp)) %>% 
-  plot_ly(y = ~avg_prcp, color = ~month, type = "box", colors = "Set3") %>%
+  plot_ly(x = ~month, y = ~avg_prcp, color = ~month, type = "box", colors = "Set3") %>%
   layout(
-      xaxis = list(title = "Year"),
+      xaxis = list(title = "Month"),
       yaxis = list(title = "Average precipitation (mm)"))
 ```
 
@@ -67,7 +67,7 @@ ny_noaa_data %>%
   group_by(year, month) %>% 
   summarize(avg_snow = mean(snow, na.rm = TRUE)) %>% 
   mutate(month = fct_reorder(month, avg_snow)) %>% 
-  plot_ly(y = ~avg_snow, color = ~month, type = "bar", colors = "Set2") %>%
+  plot_ly(x = ~year, y = ~avg_snow, color = ~month, type = "bar", colors = "Set2") %>%
   layout(
       xaxis = list(title = "Year"),
       yaxis = list(title = "Average snow fall (mm)"))
