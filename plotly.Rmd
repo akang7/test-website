@@ -37,6 +37,7 @@ ny_noaa_data %>%
   group_by(year, month) %>% 
   summarize(avg_prcp = mean(prcp, na.rm = TRUE)) %>% 
   mutate(month = fct_reorder(month, avg_prcp)) %>% 
+  mutate(month = forcats::fct_relevel(month, c("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"))) %>% 
   plot_ly(x = ~month, y = ~avg_prcp, color = ~month, type = "box", colors = "Set3") %>%
   layout(
       xaxis = list(title = "Month"),
@@ -67,6 +68,7 @@ ny_noaa_data %>%
   group_by(year, month) %>% 
   summarize(avg_snow = mean(snow, na.rm = TRUE)) %>% 
   mutate(month = fct_reorder(month, avg_snow)) %>% 
+  mutate(month = forcats::fct_relevel(month, c("November", "December", "January", "February", "March"))) %>% 
   plot_ly(x = ~year, y = ~avg_snow, color = ~month, type = "bar", colors = "Set2") %>%
   layout(
       xaxis = list(title = "Year"),
