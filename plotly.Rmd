@@ -30,7 +30,7 @@ ny_noaa_data =
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A: Average Precipitation (mm) in New York from 1981-2010
+### Chart A: Average Precipitation (mm) in New York from 1981-2010 by month
 
 ```{r avg_prcp}
 ny_noaa_data %>% 
@@ -60,7 +60,7 @@ ny_noaa_data %>%
       yaxis = list(title = "Average maximum temperature (°C)"))
 ```
 
-### Chart C: Average Snow Fall (mm) in New York in November - March of 1981 vs. 2010
+### Chart C: Average Snow Fall (mm) in New York in November through March of 1981 and 2010
 
 ```{r avg_snow}
 ny_noaa_data %>% 
