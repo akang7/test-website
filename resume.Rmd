@@ -10,12 +10,15 @@ output:
 
 ### Education
 **Columbia University Mailman School of Public Health**; New York, NY | May 2019  
-MPH in Epidemiology, Certificate in Applied Biostatistics | GPA 4.05  
+MPH in Epidemiology, Certificate in Applied Biostatistics | GPA 4.01  
+Thesis: "Sex Differences in Risk Factors of Alzheimer's Disease in Down Syndrome Population"
 
 **University of California, Berkeley**; Berkeley, CA | May 2016  
 B.A. Molecular and Cell Biology & Public Health (Honors) 
 Honors Thesis: "The Effect of CoQ on Beige Adipogenesis in a Human Cell Model"
-  
+
+<br>
+
 ### Experience
 
 **HEALTH RESEARCH TRAINING PROGRAM INTERN**, New York City Department of Health; *Long Island City, NY*: JUN 2018 – AUG 2018
@@ -28,10 +31,13 @@ and search for types of software and relevant information to DOHMH employees
 
 **TEACHING ASSISTANT**, Columbia University Mailman School of Public Health; *New York, NY*: SEPT 2018 – PRESENT
 
-* Facilitated weekly lab sections for Research Methods and Applications – Quantitative Foundations (introduction to epidemiology and biostatistics) for 22 students, including those with limited quantitative experience
-* Provided classroom support to lectures and extra student support outside of class
+*	Department of Biostatistics, Analysis of Categorical Data: JAN 2019 – PRESENT
++	TA for core Epidemiology and Biostatistics course; assist in course grading, provide classroom support to lectures, hold weekly office hours
+*	Core Curriculum, Research Methods and Applications Studio – Quantitative Foundations: SEPT 2018 – DEC 2018
++	Facilitated weekly lab sections for 22 students for introductory course to Epidemiology and Biostatistics, including those with limited quantitative experience
+Provided classroom support to lectures and extra student support outside of class
 
-**MATH & SCIENCE INSTRUCTOR**, Elite Educational Institute; *Los Angeles, CA*: SEPT 2016 – JAN 2018
+**MATH & SCIENCE INSTRUCTOR**, Elite Educational Institute; *Los Angeles, CA*: SEPT 2016 – PRESENT
 
 * Tutored students in SAT/ACT, ISEE, all math subjects up to Calculus, and Biology (AP, Honors, Regular)
 * Increased SAT Math scores by 160 points on average, ACT Math scores by 5 points on average, and ACT Science scores by 4 points on average
@@ -42,8 +48,11 @@ and search for types of software and relevant information to DOHMH employees
 * Wrote undergraduate honors thesis investigating whether statins affect both CoQ levels and Ucp1 expression using primary human cultured subcutaneous preadipocytes that were differentiated into beige adipocytes and treated with atorvastatin, 4-chlorobenzoate (4-CBA), or vehicle controls
 * Experience with literature research and manuscript-style writing
 * Participated and presented in biweekly lab meetings  
-  
+
+<br>
+
 ### Skills
 
-* **Technical**: Microsoft Office, SAS, Microsoft SQL Server, R, GIS
-* **Certificates**: CITI Human Subjects, HIPAA, Working with IAUAC (Animal Care)
+* **Proficient**: Microsoft Office, SAS, Microsoft SQL Server, Microsoft Access Databases, R, QGIS 
+*	**Working Knowledge**: STATA, SPSS
+*	**Certificates**: CITI Human Subjects, HIPAA, Working with IAUAC (Animal Care) 

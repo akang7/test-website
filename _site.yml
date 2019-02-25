@@ -5,11 +5,13 @@ navbar:
   left:
     - text: "About"
       href: about.html
-    - text: "Plotly"
-      href: plotly.html
-  right:
     - text: "Resume"
       href: resume.html
+  right:
+    - text: "Interests"
+      href: random.html
+    - text: "CV"
+      href: ./images/AshleyKangCV.pdf
     - icon: fa-envelope fa-lg
       href: mailto:<aik2136@cumc.columbia.edu>
     - icon: fa-linkedin fa-lg
