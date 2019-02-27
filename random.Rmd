@@ -14,9 +14,9 @@ On a less serious note, I really enjoy ice cream and when I was in college, I wr
 
 <br>
 
-##San Francisco, CA
+### San Francisco, CA
 
-### [Mr. and Mrs. Miscellaneous](https://www.yelp.com/biz/mr-and-mrs-miscellaneous-san-francisco)
+#### [Mr. and Mrs. Miscellaneous](https://www.yelp.com/biz/mr-and-mrs-miscellaneous-san-francisco)
 
 <img src="images/IMG_5140.JPG" style="width:50%">  
 
@@ -26,7 +26,9 @@ One of my favorite ice creameries of all time. Putting this at the top of my lis
 
 Side Note: The shop is cute and hipster-ish. They only let you try two flavors. There isn’t much seating and unfortunately there is a $5 minimum in order to use a credit card.
 
-### [Bi-Rite Creamery](https://www.yelp.com/biz/bi-rite-creamery-san-francisco)
+<br>
+
+#### [Bi-Rite Creamery](https://www.yelp.com/biz/bi-rite-creamery-san-francisco)
 
 <img src="images/IMG_5794.JPG" style="width:50%">
 
@@ -36,7 +38,9 @@ I really enjoy teas and flower scents, and aptly, one of my favorite flavors at 
 
 Suggestion: If the weather is nice, you should grab a sandwich at Ike’s, eat it at Dolores Park, and then visit Bi-Rite. 
 
-### [Humphry Slocombe Ice Cream](https://www.yelp.com/biz/humphry-slocombe-ice-cream-san-francisco-4?osq=humphreys) 
+<br>
+
+#### [Humphry Slocombe Ice Cream](https://www.yelp.com/biz/humphry-slocombe-ice-cream-san-francisco-4?osq=humphreys) 
 
 <img src="images/humphry.jpg" style="width:50%">
 
@@ -50,7 +54,7 @@ Con: They didn’t serve cones (at least when I visited).
 
 ### Berkeley, CA
 
-### [Ici Ice Cream](https://www.yelp.com/biz/ici-ice-cream-berkeley)
+#### [Ici Ice Cream](https://www.yelp.com/biz/ici-ice-cream-berkeley)
 
 <img src="images/IMG_5355.JPG" style="width:50%">
 
@@ -64,111 +68,114 @@ Cons: Long lines (primarily because there are so many college students - includi
 
 Side Note: The workers here have fantastic memories! I don’t understand how they remember all of the flavors.
 
+<br>
 
-### [Smitten Ice Cream](https://www.yelp.com/biz/smitten-ice-cream-oakland-3)
+#### [Smitten Ice Cream](https://www.yelp.com/biz/smitten-ice-cream-oakland-3)
 
 <img src="images/IMG_5215.JPG" style="width:50%">
 
 <br>
 
-### [Fentons Creamery](https://www.yelp.com/biz/fentons-creamery-oakland-2)
+#### [Fentons Creamery](https://www.yelp.com/biz/fentons-creamery-oakland-2)
 
 <img src="images/IMG_6149.JPG" style="width:50%">
 
 <br>
 
-### CREAM 
+#### CREAM 
 
-### Almare Gelato Italiano
+#### Almare Gelato Italiano
 
-### John's Ice Cream
+#### John's Ice Cream
 
 ### Tara's Organic Ice Cream
 
-### Three Twins Ice Cream
+#### Three Twins Ice Cream
 
-### Secret Scoop Thai Gelato
+#### Secret Scoop Thai Gelato
 
 <br>
 
-## Los Angeles, CA
+### Los Angeles, CA
 
-### Salt & Straw Ice Cream
+#### Salt & Straw Ice Cream
 
-### Jeni's Splendid Ice Creams
+#### Jeni's Splendid Ice Creams
 
-### McConnell's Fine Ice Creams
+#### McConnell's Fine Ice Creams
 
-<img src="images/IMG_5355.JPG" style="width:50%">
+<img src="images/IMG_5899.JPG" style="width:50%">
 
-### Honeymee
+#### Honeymee
 
-<img src="images/IMG_5355.JPG" style="width:50%">
+<img src="images/IMG_5948.JPG" style="width:50%">
 
-### Diddy Riese
+#### Diddy Riese
 
-### Carmela Ice Cream Co.
+#### Carmela Ice Cream Co.
 
-### Midori Matcha Cafe
+#### Midori Matcha Cafe
 
-### Owl's
+#### Owl's
 
-### Cafe Bora
+#### Cafe Bora
 
 <img src="images/IMG_5388.jpeg" style="width:50%">
 
 <br>
 
-## New York, NY
+### New York, NY
 
-### [Van Leeuwen Artisan Ice Cream](https://www.yelp.com/biz/van-leeuwen-artisan-ice-cream-new-york-3)
+#### [Van Leeuwen Artisan Ice Cream](https://www.yelp.com/biz/van-leeuwen-artisan-ice-cream-new-york-3)
 
 <img src="images/IMG_7974.JPG" style="width:50%">
 
 <br>
 
-### Morgenstern's Finest Ice Cream
+#### Morgenstern's Finest Ice Cream
 
-### Milk Bar
+#### Milk Bar
 
 <img src="images/IMG_5465.JPG" style="width:50%">
 
-### The Original Chinatown Ice Cream Factory
+#### The Original Chinatown Ice Cream Factory
 
 <img src="images/IMG_5439.JPG" style="width:50%">
 
-### il laboratorio del gelato
+#### il laboratorio del gelato
 
-### Taiyaki NYC
-
-<br>
-
-## Dublin, Ireland
-
-### Murphys Ice Cream
+#### Taiyaki NYC
 
 <br>
 
-## Venice, Italy
+### Dublin, Ireland
 
-### Grom Gelato
-
-<br>
-
-## Florence, Italy
-
-### Gelateria La Carraia
+#### Murphys Ice Cream
 
 <br>
 
-## Rome, Italy
+### Venice, Italy
 
-### Palazzo del Freddo Giovanni Fassi
-
-### Old Bridge Gelateria
+#### Grom Gelato
 
 <br>
 
-## Seoul, Korea
+### Florence, Italy
 
-### Oseullo
+#### Gelateria La Carraia
+
+<br>
+
+### Rome, Italy
+
+#### Palazzo del Freddo Giovanni Fassi
+
+#### Old Bridge Gelateria
+
+<br>
+
+### Seoul, Korea
+
+#### Oseullo
+
+#### Footlong Ice Cream

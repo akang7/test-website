@@ -6,7 +6,7 @@ output:
     toc_float: true
 ---
 
-
+<br>
 
 ### Education
 **Columbia University Mailman School of Public Health**; New York, NY | May 2019  
