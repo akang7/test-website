@@ -3,8 +3,9 @@ title: "Ashley Kang"
 ---
 
 MPH Candidate in Epidemiology 
-
 Columbia University Mailman School of Public Health
+
+<br>
 
 <img src="images/IMG_2780.jpeg" style="width:75%">  
 
@@ -22,7 +23,6 @@ I recently interned at the [NYC Department of Health and Mental Hygiene](https:/
 ### Contact Information
 
 Ashley Kang
-
 Email: aik2136@cumc.columbia.edu
 
 

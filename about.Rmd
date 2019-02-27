@@ -2,6 +2,8 @@
 title: "About this site"
 ---
 
+<br>
+
 This is a personal website built on October 31, 2018 for Columbia University Mailman School of Public Health, Department of Biostatistics' Data Science course (P8105).
 
 This website includes my resume/CV, personal interests, and links to my personal LinkedIn and GitHub profiles.
