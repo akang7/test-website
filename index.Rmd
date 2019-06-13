@@ -2,29 +2,28 @@
 title: "Ashley Kang"
 ---
 
-MPH Candidate in Epidemiology 
-
-Columbia University Mailman School of Public Health
+MPH in Epidemiology, Columbia University Mailman School of Public Health
 
 <br>
 
-<img src="images/IMG_2780.jpeg" style="width:75%">  
+<img src="images/IMG_6617.jpeg" style="width:75%">  
 
 
 <br>
 
 ### About me
 
-I am a second year MPH student at [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/) pursuing a concentration in [Epidemiology](https://www.mailman.columbia.edu/become-student/degrees/masters-programs/master-public-health/columbia-mph/mph-epidemiology) and a certificate in [Applied Biostatistics](https://www.mailman.columbia.edu/become-student/degrees/masters-programs/master-public-health/certificates/applied-biostatistics). I received a BA in Molecular and Cell Biology and Public Health at UC Berkeley in 2016. For my honors thesis, I studied the relationship between Coenzyme Q (CoQ) and beige adipogenesis in a human cell model.  
+I recently received my MPH in [Epidemiology](https://www.mailman.columbia.edu/become-student/degrees/masters-programs/master-public-health/columbia-mph/mph-epidemiology) and a certificate in [Applied Biostatistics](https://www.mailman.columbia.edu/become-student/degrees/masters-programs/master-public-health/certificates/applied-biostatistics) from [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/). My master's thesis explored sex differences in risk factors for Alzheimer's Disease in the Down Syndrome population. I received a BA in Molecular and Cell Biology and Public Health at UC Berkeley in 2016. For my honors thesis, I studied the relationship between Coenzyme Q (CoQ) and beige adipogenesis in a human cell model.  
 
-I recently interned at the [NYC Department of Health and Mental Hygiene](https://www1.nyc.gov/site/doh/index.page) in the Division of Informatics Information Technology and Telecommunications researching the validity of internal provider data (Provider Data Warehouse) compared to data from public sources, including Medicaid Claims and NPPES NPI Registry. 
+Last summer, I interned at the [NYC Department of Health and Mental Hygiene](https://www1.nyc.gov/site/doh/index.page) in the Division of Informatics Information Technology and Telecommunications researching the validity of internal provider data (Provider Data Warehouse) compared to data from public sources, including Medicaid Claims and NPPES NPI Registry. 
 
 <br>
 
 ### Contact Information
 
 Ashley Kang
-Email: aik2136@cumc.columbia.edu
+<br>
+Email: aik2136@caa.columbia.edu
 
 
 
